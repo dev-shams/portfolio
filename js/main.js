@@ -139,7 +139,7 @@ $(function() {
 
   bar.animate(0.9);
 
-  var bar = new ProgressBar.Circle(circleprog3, {
+  /*var bar = new ProgressBar.Circle(circleprog3, {
     strokeWidth: 7,
     easing: 'easeInOut',
     duration: 1400,
@@ -155,7 +155,7 @@ $(function() {
     }
   });
 
-  bar.animate(0.7);
+  bar.animate(0.7);*/
 
   var bar = new ProgressBar.Line(lineprog1, {
     strokeWidth: 1.72,
